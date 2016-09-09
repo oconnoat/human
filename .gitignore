@@ -3,6 +3,7 @@
 *.iws
 *.eml
 out/
+*.swp
 .DS_Store
 .svn
 log/*.log
