@@ -96,13 +96,6 @@ interesting on both sides. What can I do with a computer that's interesting to
 me and useful for you? I still run into this problem, I use paper notes but have
 not found a workable way to digitise them.
 
-## 13
-
-I like to talk about it being the sweet spot of collaboration. The idea is to
-automate the things that are hard for humans but easy for computers, while
-helping to find the things that are hard for computers, or hard for both.
-Computers can help by speeding things up, by repeating things lots of times, and
-more.
 
 ## 14
 
@@ -136,6 +129,7 @@ and how to share it for their own network? While I do think that citizens and
 journalists and academics are all contributing increasingly in the same content
 spaces, I don't think that means that every article should be 140 characters.
 
+
 ## 18
 
 I work as part of a bigger team. The ADAPT Centre has a hundred researchers
@@ -149,6 +143,15 @@ We work with industry, and we're keen to work with other academics. Half of our
 funding comes from industry engagements, and we have an engineering team to
 build proof of concept systems, and to support the commercial application of
 research.
+
+## 13
+
+I like to talk about it being the sweet spot of collaboration. The idea is to
+automate the things that are hard for humans but easy for computers, while
+helping to find the things that are hard for computers, or hard for both.
+Computers can help by speeding things up, by repeating things lots of times, and
+more.
+
 
 ## 20
 
