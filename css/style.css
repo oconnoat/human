@@ -1,0 +1,17 @@
+section.fin{
+    font-size: 3em;
+    font-family: 'Parisienne', cursive;
+    color: #ddd;
+    border: 5px solid #ddd;
+}
+
+.reveal .mono{
+    font-family: 'VT323',monospace;
+}
+
+.reveal p.dark {
+    background-color: #333;
+    color: #ddd;
+    padding: 10px;
+    box-shadow: 4px 4px 8px 0px rgba(20,20,20,1);    
+}
