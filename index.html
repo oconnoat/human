@@ -244,10 +244,13 @@
     </div>
 </div>
 <div><p>Test</p></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headjs/0.96/head.min.js"></script>
 <script src="js/reveal.js"></script>
 <script>
     Reveal.initialize({
-        slideNumber: 'c/t'
+        slideNumber: 'c/t',
+        dependencies: [
+        {src: 'plugin/notes/notes.js', async: true}]
     });
 </script>
 </body>
